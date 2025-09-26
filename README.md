@@ -65,19 +65,13 @@ python main.py
 - Chọn **Solo Mode** (Hand Control).  
 - Chọn **VS AI Mode** (đấu với AI).  
 
-### Nếu muốn thử bản Neon nâng cấp:
-```bash
-python test.py
-```
 
----
 
 ## Điều khiển (Hand Mode)  
 - Đặt tay trong khung nhận diện.  
 - Di chuyển sang trái/phải bằng cách đưa tay sang ngang.  
 - Búng ngón tay để xoay khối.  
 - Kéo tay xuống để thả nhanh.  
-- Vẫy tay để restart.  
 
 ---
 
@@ -93,4 +87,4 @@ python test.py
 ---
 
 ##  License  
-MIT License – thoải mái sử dụng & chỉnh sửa.  
+MIT License – thoải mái tùy ý sử dụng & chỉnh sửa.  
